@@ -5,6 +5,7 @@ function heroicInventory(input) {
         let [name, level, items] = item.split(' / ');
         name = name;
         level = Number(level);
+
         result.push({
             name,
             level: level,
