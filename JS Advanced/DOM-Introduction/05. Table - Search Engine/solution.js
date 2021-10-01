@@ -14,6 +14,7 @@ function solve() {
             el.classList.remove('select');
          }
       })
-    
+      
+      input.value = '';
    }
 }
