@@ -3,11 +3,11 @@ function solve() {
   const splittedText = text.split('.').filter(x => x != '');
   const output = document.getElementById('output');
 
-  for (let i = 0; i < splittedText.length; i+= 3) {
+  for (let i = 0; i < splittedText.length; i += 3) {
     let arr = [];
 
     for (let j = 0; j < 3; j++) {
-      if(splittedText[i + j]){
+      if (splittedText[i + j]) {
         arr.push(splittedText[i + j]);
       }
     }
