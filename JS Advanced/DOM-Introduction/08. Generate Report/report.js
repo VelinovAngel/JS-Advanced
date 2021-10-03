@@ -26,7 +26,6 @@ function generateReport() {
         if (i !== 0) {
             resultArr.push(obj);
         }
-    }
-    
+    } 
     document.getElementById('output').value = JSON.stringify(resultArr);
 }
