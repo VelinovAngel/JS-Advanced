@@ -10,6 +10,6 @@ function create(words) {
   }
 
   function onClick(ev){
-     ev.target.children[0].style.display = '';
+     ev.currentTarget.children[0].style.display = '';
   }
 }
