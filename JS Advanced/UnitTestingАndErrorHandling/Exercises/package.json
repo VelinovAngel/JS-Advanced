@@ -4,7 +4,7 @@
   "description": "",
   "main": "1.RequestValidator.js",
   "scripts": {
-    "test": "mocha Test/3.CharLookup.test.js"
+    "test": "mocha Test/4.MathEnforcer.test.js"
   },
   "keywords": [],
   "author": "",
