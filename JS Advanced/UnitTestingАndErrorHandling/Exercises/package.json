@@ -1,0 +1,16 @@
+{
+  "name": "Exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.RequestValidator.js",
+  "scripts": {
+    "test": "mocha Test/2.EvenOrOdd.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}

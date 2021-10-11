@@ -1,5 +1,5 @@
 const { expect } = require('chai');
-const isOddOrEven = require('/Exercise/2.EvenOrOdd.js').isOddOrEven;
+const isOddOrEven = require('../2.EvenOrOdd.js');
 
 describe('Even od odd checker', () => {
     it('Should return undefined if not a string', () => {
