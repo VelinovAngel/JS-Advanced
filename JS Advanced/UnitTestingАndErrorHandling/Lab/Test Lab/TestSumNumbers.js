@@ -1,5 +1,5 @@
 const { expect } = require('chai');
-const sum = require('../04.SumNumbers');
+const sum = require('../Lab/04.SumNumbers');
 
 describe('Demo test', () => {
     it('works with 5 and 3', () => {
