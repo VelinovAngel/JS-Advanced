@@ -1,10 +1,10 @@
 {
-  "name": "Lab",
+  "name": "Classes",
   "version": "1.0.0",
   "description": "",
-  "main": "01.SubSum.js",
+  "main": "1.Rectangle.js",
   "scripts": {
-    "test": "mocha ./Test/6.RGBToHex.Test.js"
+    "test": "mocha 12.PaymentPackage.js"
   },
   "keywords": [],
   "author": "",
