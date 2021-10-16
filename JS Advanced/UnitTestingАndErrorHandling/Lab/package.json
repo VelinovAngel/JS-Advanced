@@ -2,9 +2,9 @@
   "name": "Lab",
   "version": "1.0.0",
   "description": "",
-  "main": "01.SubSum.js",
+  "main": "index.js",
   "scripts": {
-    "test": "mocha ./Test/6.RGBToHex.Test.js"
+    "test": "mocha ./Test/06.TestRBG.Test.js"
   },
   "keywords": [],
   "author": "",

@@ -1,6 +1,6 @@
 let expect = require('chai').expect;
 
-const rgbToHexColor = require('../Lab/6.RGBToHex');
+const rgbToHexColor = require('../Lab/6.RGBToHex.js');
 
 describe("rgbToHexColor(red, green, blue)", function () {
     describe("Nominal cases(valid input)", function () {
